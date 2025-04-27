@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[instagram]: https://www.instagram.com/thechinwe.tech
 [linkedin]: https://linkedin.com/in/kamauchinwe
 
 <!--
