@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/KChinwe97/Vulnerability-Management-Program/)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** (Not Complete)
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -20,8 +20,8 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 [<img align="left" alt="          __ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
+[twitter]: https://twitter.com/abibimandefense
+[youtube]: https://www.youtube.com/c/chinwetech
 [instagram]: https://www.instagram.com/thechinwe.tech
 [linkedin]: https://linkedin.com/in/kamauchinwe
 
